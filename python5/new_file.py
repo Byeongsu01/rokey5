@@ -1,1 +1,1 @@
-print('vscode new_file')
+print('새 파일')
